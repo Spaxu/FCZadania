@@ -1,1 +1,1 @@
-czwarta zmiana
+My first GIT repository commands practised
